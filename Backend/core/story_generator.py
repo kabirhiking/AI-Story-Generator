@@ -93,4 +93,3 @@ class StoryGenerator:
 
         db.flush()
         return node
-
